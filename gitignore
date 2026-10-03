@@ -1,0 +1,7 @@
+resultats_unet/
+*.h5
+*.tflite
+*.zip
+train_images/
+train.csv
+__pycache__/
